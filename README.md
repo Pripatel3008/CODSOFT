@@ -1,14 +1,17 @@
 CODSOFT
 In this repository there are 3 project for complete my internship in CODSOFT
-**Project 01 : Simple To-Do List Manager**
+
+
+> **Project 01 : Simple To-Do List Manager**
+
 Project Description: The "Simple To-Do List Manager" is a Python-based application that allows users to manage their daily tasks and keep track of their to-do list. The application provides a user-friendly command-line interface, enabling users to add, remove, and view tasks easily. The project's main goal is to provide a straightforward and efficient way for users to organize their tasks and improve productivity.
-Features:
+> Features:
 1.	Add Tasks: Users can add tasks to their to-do list by entering task descriptions through the command-line interface. Each task will be recorded with a timestamp, indicating when it was added.
 2.	Remove Tasks: If a task is completed or no longer relevant, users can remove it from the to-do list using the command-line interface. The application will handle the task's deletion and provide appropriate feedback to the user.
 3.	View Tasks: Users can view their entire to-do list at any time by selecting the corresponding option in the command-line menu. The list will display tasks along with their timestamps, making it easy to keep track of the tasks' order.
 4.	Task Persistence: The application will utilize file handling techniques to persist the to-do list between sessions. This ensures that the user's tasks remain saved even if they close the application or restart their computer.
 5.	Error Handling: The application will implement robust error handling to prevent crashes and provide user-friendly error messages if any unexpected situations arise.
-Technical Details:
+> Technical Details:
 •	The project will be implemented in Python, leveraging its simplicity and ease of use for a command-line application.
 •	The main data structure for the to-do list will be a Python list, allowing for easy addition and removal of tasks.
 •	File handling will be employed to read and write the to-do list to a local file, ensuring task persistence.
@@ -27,19 +30,19 @@ Potential Enhancements: To enhance the project further, additional features coul
 Conclusion: The "Simple To-Do List Manager" is an efficient and user-friendly Python application that allows users to maintain and organize their to-do lists effortlessly. By providing a straightforward command-line interface, the project enables users to focus on their tasks and stay on top of their daily responsibilities. With potential enhancements, the application can be expanded to cater to more complex task management needs and contribute to improved productivity and time management for users.
 
 
-**Project 02 : Basic GUI Calculator**
+> **Project 02 : Basic GUI Calculator**
 Project Description: The "Basic GUI Calculator" is a Python-based application that provides a user-friendly graphical interface to perform basic arithmetic calculations. The calculator supports addition, subtraction, multiplication, and division, making it suitable for everyday mathematical operations. The project's primary objective is to offer a simple and intuitive calculator interface that users can easily interact with to perform calculations.
-Features:
+> Features:
 1.	Graphical User Interface: The application utilizes the Tkinter library to create a graphical user interface, providing buttons for numbers, arithmetic operators, and a display field to show the input and result of calculations.
 2.	Basic Arithmetic Operations: The calculator supports basic arithmetic operations, including addition, subtraction, multiplication, and division. Users can input numerical values using the provided buttons and perform calculations by clicking on the corresponding operator buttons.
 3.	Real-Time Calculation: As users click on the number and operator buttons, the input will be displayed in real-time on the calculator's display field. This allows users to see the current expression they are entering.
 4.	Error Handling: The calculator implements error handling to prevent invalid calculations and display meaningful error messages when the user enters an incorrect expression.
-Technical Details:
+> Technical Details:
 •	The project is developed in Python using the Tkinter library for the graphical user interface.
 •	The calculator's display field is implemented using a Tkinter Entry widget to show the user's input and the result of calculations.
 •	The number and operator buttons are created using Tkinter Button widgets, and their corresponding functions are bound to the buttons to handle user interactions.
 •	The calculator will use the eval() function to evaluate the user's input and perform the arithmetic calculations.
-User Interaction: Upon launching the application, users will be presented with a simple GUI calculator. They can interact with the calculator using the following features:
+> User Interaction: Upon launching the application, users will be presented with a simple GUI calculator. They can interact with the calculator using the following features:
 •	Click on number buttons (0-9) to input numerical values.
 •	Click on the operator buttons (+, -, *, /) to specify the desired arithmetic operation.
 •	The input and result will be displayed in the calculator's display field.
@@ -50,7 +53,7 @@ Potential Enhancements: To enhance the project further, additional features coul
 •	Implementation of keyboard input for numerical values and operators.
 •	Incorporation of memory functionality to store and recall previous calculations.
 •	Integration of a theme switcher to provide different visual styles for the calculator.
-Conclusion: The "Basic GUI Calculator" is a straightforward and user-friendly Python application that allows users to perform basic arithmetic calculations through an intuitive graphical interface. By providing real-time input display and result updates, the calculator facilitates smooth interactions and helps users carry out mathematical operations efficiently. With potential enhancements, the application can be expanded to accommodate more advanced calculations and personalized customization options, catering to a wider range of user preferences and mathematical needs.
+> Conclusion: The "Basic GUI Calculator" is a straightforward and user-friendly Python application that allows users to perform basic arithmetic calculations through an intuitive graphical interface. By providing real-time input display and result updates, the calculator facilitates smooth interactions and helps users carry out mathematical operations efficiently. With potential enhancements, the application can be expanded to accommodate more advanced calculations and personalized customization options, catering to a wider range of user preferences and mathematical needs.
 
 
 
