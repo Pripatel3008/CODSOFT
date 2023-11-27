@@ -57,8 +57,6 @@ Potential Enhancements: To enhance the project further, additional features coul
 •	Implementation of keyboard input for numerical values and operators.
 •	Incorporation of memory functionality to store and recall previous calculations.
 •	Integration of a theme switcher to provide different visual styles for the calculator.
-> Conclusion: The "Basic GUI Calculator" is a straightforward and user-friendly Python application that allows users to perform basic arithmetic calculations through an intuitive graphical interface. By providing real-time input display and result updates, the calculator facilitates smooth interactions and helps users carry out mathematical operations efficiently. With potential enhancements, the application can be expanded to accommodate more advanced calculations and personalized customization options, catering to a wider range of user preferences and mathematical needs.
-
 
 
 > **Project 03: Secure Password Generator**
@@ -87,4 +85,10 @@ Potential Enhancements: To enhance the project further, additional features coul
 •	Implementing a graphical user interface (GUI) for a more user-friendly experience.
 •	Incorporating password strength evaluation to provide feedback on the generated password's security level.
 Conclusion: The "Secure Password Generator" is a practical Python-based application designed to create strong and secure random passwords tailored to user preferences. By offering customizable password lengths and character type inclusion, the project empowers users to generate robust passwords that contribute to better online security practices. With potential enhancements, the application can further assist users in safeguarding their accounts and sensitive information from unauthorized access and potential cyber threats.
+
+>  Conclusion:
+
+ The "Basic GUI Calculator" is a straightforward and user-friendly Python application that allows users to perform basic arithmetic calculations through an intuitive graphical interface. By providing real-time input display and result updates, the calculator facilitates smooth interactions and helps users carry out mathematical operations efficiently. With potential enhancements, the application can be expanded to accommodate more advanced calculations and personalized customization options, catering to a wider range of user preferences and mathematical needs.
+
+
 
