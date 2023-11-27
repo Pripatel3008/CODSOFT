@@ -12,6 +12,7 @@ Project Description: The "Simple To-Do List Manager" is a Python-based applicati
 4.	Task Persistence: The application will utilize file handling techniques to persist the to-do list between sessions. This ensures that the user's tasks remain saved even if they close the application or restart their computer.
 5.	Error Handling: The application will implement robust error handling to prevent crashes and provide user-friendly error messages if any unexpected situations arise.
 > Technical Details:
+
 •	The project will be implemented in Python, leveraging its simplicity and ease of use for a command-line application.
 •	The main data structure for the to-do list will be a Python list, allowing for easy addition and removal of tasks.
 •	File handling will be employed to read and write the to-do list to a local file, ensuring task persistence.
@@ -31,6 +32,7 @@ Conclusion: The "Simple To-Do List Manager" is an efficient and user-friendly Py
 
 
 > **Project 02 : Basic GUI Calculator**
+
 Project Description: The "Basic GUI Calculator" is a Python-based application that provides a user-friendly graphical interface to perform basic arithmetic calculations. The calculator supports addition, subtraction, multiplication, and division, making it suitable for everyday mathematical operations. The project's primary objective is to offer a simple and intuitive calculator interface that users can easily interact with to perform calculations.
 > Features:
 1.	Graphical User Interface: The application utilizes the Tkinter library to create a graphical user interface, providing buttons for numbers, arithmetic operators, and a display field to show the input and result of calculations.
@@ -38,11 +40,13 @@ Project Description: The "Basic GUI Calculator" is a Python-based application th
 3.	Real-Time Calculation: As users click on the number and operator buttons, the input will be displayed in real-time on the calculator's display field. This allows users to see the current expression they are entering.
 4.	Error Handling: The calculator implements error handling to prevent invalid calculations and display meaningful error messages when the user enters an incorrect expression.
 > Technical Details:
+
 •	The project is developed in Python using the Tkinter library for the graphical user interface.
 •	The calculator's display field is implemented using a Tkinter Entry widget to show the user's input and the result of calculations.
 •	The number and operator buttons are created using Tkinter Button widgets, and their corresponding functions are bound to the buttons to handle user interactions.
 •	The calculator will use the eval() function to evaluate the user's input and perform the arithmetic calculations.
 > User Interaction: Upon launching the application, users will be presented with a simple GUI calculator. They can interact with the calculator using the following features:
+
 •	Click on number buttons (0-9) to input numerical values.
 •	Click on the operator buttons (+, -, *, /) to specify the desired arithmetic operation.
 •	The input and result will be displayed in the calculator's display field.
@@ -57,15 +61,18 @@ Potential Enhancements: To enhance the project further, additional features coul
 
 
 
-**Project 03: Secure Password Generator**
+> **Project 03: Secure Password Generator**
+
 Project Description: The "Secure Password Generator" is a Python-based application that generates strong and secure random passwords. The password generator aims to assist users in creating robust and unique passwords that are difficult to crack and enhance overall online security. The project provides a command-line interface, allowing users to customize the password length and include various character types in the generated passwords.
-Features:
+> Features:
+
 1.	Random Password Generation: The application uses Python's random module to generate random characters for the password, ensuring that each generated password is unique and unpredictable.
 2.	Customizable Password Length: Users can specify the desired length of the password, allowing them to generate passwords of varying lengths to suit the security requirements of different platforms and accounts.
 3.	Character Types Inclusion: Users can choose to include different types of characters in the generated password, such as uppercase letters, lowercase letters, digits, and special symbols. This flexibility ensures that the generated passwords meet specific complexity criteria.
 4.	Clipboard Copying: After generating a password, the application allows users to copy the generated password to the clipboard, making it convenient to paste the password directly into registration or login forms.
 5.	User Input Validation: The application implements input validation to ensure that the user's preferences, such as password length and character type choices, are within valid ranges.
-Technical Details:
+> Technical Details:
+
 •	The project is developed in Python, leveraging its random module to generate random characters for the password.
 •	The application will utilize Python's string module to store character sets for different types of characters (uppercase letters, lowercase letters, digits, and special symbols).
 •	User interactions will be implemented through a simple command-line interface, providing prompts for password length and character type choices.
