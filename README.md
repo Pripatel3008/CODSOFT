@@ -1,8 +1,6 @@
-# CODSOFT
-
 CODSOFT
 In this repository there are 3 project for complete my internship in CODSOFT
-> **Project 01 : Simple To-Do List Manager**
+**Project 01 : Simple To-Do List Manager**
 Project Description: The "Simple To-Do List Manager" is a Python-based application that allows users to manage their daily tasks and keep track of their to-do list. The application provides a user-friendly command-line interface, enabling users to add, remove, and view tasks easily. The project's main goal is to provide a straightforward and efficient way for users to organize their tasks and improve productivity.
 Features:
 1.	Add Tasks: Users can add tasks to their to-do list by entering task descriptions through the command-line interface. Each task will be recorded with a timestamp, indicating when it was added.
@@ -27,7 +25,9 @@ Potential Enhancements: To enhance the project further, additional features coul
 •	Option to mark tasks as completed or in progress.
 •	Integration with a graphical user interface (GUI) for a more user-friendly experience.
 Conclusion: The "Simple To-Do List Manager" is an efficient and user-friendly Python application that allows users to maintain and organize their to-do lists effortlessly. By providing a straightforward command-line interface, the project enables users to focus on their tasks and stay on top of their daily responsibilities. With potential enhancements, the application can be expanded to cater to more complex task management needs and contribute to improved productivity and time management for users.
-Project 02 : Basic GUI Calculator
+
+
+**Project 02 : Basic GUI Calculator**
 Project Description: The "Basic GUI Calculator" is a Python-based application that provides a user-friendly graphical interface to perform basic arithmetic calculations. The calculator supports addition, subtraction, multiplication, and division, making it suitable for everyday mathematical operations. The project's primary objective is to offer a simple and intuitive calculator interface that users can easily interact with to perform calculations.
 Features:
 1.	Graphical User Interface: The application utilizes the Tkinter library to create a graphical user interface, providing buttons for numbers, arithmetic operators, and a display field to show the input and result of calculations.
@@ -51,7 +51,10 @@ Potential Enhancements: To enhance the project further, additional features coul
 •	Incorporation of memory functionality to store and recall previous calculations.
 •	Integration of a theme switcher to provide different visual styles for the calculator.
 Conclusion: The "Basic GUI Calculator" is a straightforward and user-friendly Python application that allows users to perform basic arithmetic calculations through an intuitive graphical interface. By providing real-time input display and result updates, the calculator facilitates smooth interactions and helps users carry out mathematical operations efficiently. With potential enhancements, the application can be expanded to accommodate more advanced calculations and personalized customization options, catering to a wider range of user preferences and mathematical needs.
-Project 03: Secure Password Generator
+
+
+
+**Project 03: Secure Password Generator**
 Project Description: The "Secure Password Generator" is a Python-based application that generates strong and secure random passwords. The password generator aims to assist users in creating robust and unique passwords that are difficult to crack and enhance overall online security. The project provides a command-line interface, allowing users to customize the password length and include various character types in the generated passwords.
 Features:
 1.	Random Password Generation: The application uses Python's random module to generate random characters for the password, ensuring that each generated password is unique and unpredictable.
